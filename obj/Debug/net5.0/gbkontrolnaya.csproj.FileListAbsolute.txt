@@ -1,0 +1,16 @@
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\bin\Debug\net5.0\gbkontrolnaya.exe
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\bin\Debug\net5.0\gbkontrolnaya.deps.json
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\bin\Debug\net5.0\gbkontrolnaya.runtimeconfig.json
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\bin\Debug\net5.0\gbkontrolnaya.runtimeconfig.dev.json
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\bin\Debug\net5.0\gbkontrolnaya.dll
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\bin\Debug\net5.0\ref\gbkontrolnaya.dll
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\bin\Debug\net5.0\gbkontrolnaya.pdb
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\gbkontrolnaya.csproj.AssemblyReference.cache
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\gbkontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\gbkontrolnaya.AssemblyInfoInputs.cache
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\gbkontrolnaya.AssemblyInfo.cs
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\gbkontrolnaya.csproj.CoreCompileInputs.cache
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\gbkontrolnaya.dll
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\ref\gbkontrolnaya.dll
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\gbkontrolnaya.pdb
+C:\Users\Zoya\Documents\geekbrains\kontrolnaya\gbkontrolnaya\obj\Debug\net5.0\gbkontrolnaya.genruntimeconfig.cache
